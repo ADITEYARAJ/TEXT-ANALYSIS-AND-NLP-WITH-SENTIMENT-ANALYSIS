@@ -1,0 +1,20 @@
+"text","favorited","favoriteCount","replyToSN","created","truncated","replyToSID","id","replyToUID","statusSource","screenName","retweetCount","isRetweet","retweeted","longitude","latitude"
+"$AAPL yeah, the way Kudlow said twice that China made a big mistake over Hong Kong makes me think that Trump is goi… https://t.co/S5eBcZAdO5",FALSE,0,NA,2020-05-28 17:56:44,TRUE,NA,"1266065887506939904",NA,"<a href=""https://stocktwits.com"" rel=""nofollow"">StockTwits Web</a>","alzarilla",0,FALSE,FALSE,NA,NA
+"I’m sure FaceID works great when wearing a mask.  Way to go,  #apple $AAPL .  I guess Trump was right about removin… https://t.co/PawzPu58Be",FALSE,1,NA,2020-05-28 17:56:03,TRUE,NA,"1266065714147966977",NA,"<a href=""http://twitter.com/#!/download/ipad"" rel=""nofollow"">Twitter for iPad</a>","no_pullbacks",0,FALSE,FALSE,NA,NA
+"RT @UPBOptionMil: Some of todays most active stock options 5.28.20  $AAPL $AMD $SNAP $NFLX $BABA $NVDA $BA https://t.co/BkzRfxT8Gj",FALSE,0,NA,2020-05-28 17:55:53,FALSE,NA,"1266065673664565250",NA,"<a href=""https://federalreserve.gov/"" rel=""nofollow"">Market scanner</a>","Official_Forex",8,TRUE,FALSE,NA,NA
+"RT @mTradingMedia: FREE ""Swing Trading Scanning &amp; Strategies"" ebook by our friends at TI
+
+You can download&amp; start reading for immediately a…",FALSE,0,NA,2020-05-28 17:55:37,FALSE,NA,"1266065608002670592",NA,"<a href=""https://federalreserve.gov/"" rel=""nofollow"">Market scanner</a>","Official_Forex",11,TRUE,FALSE,NA,NA
+"$SPY 0601 309c avg 1.01 out at 1.4 for now +40%
+
+Expecting a pull back
+
+$AAPL 0605 325c 2.8 avg out at 4  +43%
+
+Wil… https://t.co/OOq3G6G0qj",FALSE,0,"moneypig001",2020-05-28 17:55:30,TRUE,"1266047227383779328","1266065576700624904","928834019059314689","<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","moneypig001",0,FALSE,FALSE,NA,NA
+"bought $AAPL 320 P for 1.07",FALSE,0,NA,2020-05-28 17:55:27,FALSE,NA,"1266065565912875008",NA,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","MARKETSP0TLIGHT",0,FALSE,FALSE,NA,NA
+"$AAPL Has A Good #Technical Analysis Score (TA Score). Breakdown Of 3 Categories: #candle score Neutral; moving ave… https://t.co/uyJGOP3VSd",FALSE,0,NA,2020-05-28 17:53:46,TRUE,NA,"1266065138433642496",NA,"<a href=""https://itunes.apple.com/us/app/stock-station-stock-market/id655425604?mt=8"" rel=""nofollow"">minteractapp</a>","MinteractApp",0,FALSE,FALSE,NA,NA
+"$QQQ and $SPY starting to rollover on the 30min and 1hr
+if anyone wants to bet against the unstoppable force sent b… https://t.co/BnCO4fKlDV",FALSE,0,NA,2020-05-28 17:52:42,TRUE,NA,"1266064873827569671",NA,"<a href=""https://mobile.twitter.com"" rel=""nofollow"">Twitter Web App</a>","SharpStreetCap",0,FALSE,FALSE,NA,NA
+"$AAPL phew. Quick little sell off. I’m out at +45% https://t.co/N7cwRP7NRW",FALSE,0,NA,2020-05-28 17:51:43,FALSE,NA,"1266064624866127872",NA,"<a href=""http://twitter.com/download/iphone"" rel=""nofollow"">Twitter for iPhone</a>","juangoldsteini",0,FALSE,FALSE,NA,NA
+"RT @FadeTheXX: $spx $spy $es $ndx $qqq $iwn $vix $vxx $aapl $googl $msft $fb #oott https://t.co/GXJgODHRXt",FALSE,0,NA,2020-05-28 17:50:11,FALSE,NA,"1266064240789598208",NA,"<a href=""https://seekingalpha.com/"" rel=""nofollow"">UTDStockNews</a>","c_labrinos",1,TRUE,FALSE,NA,NA
